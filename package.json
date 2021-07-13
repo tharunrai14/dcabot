@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tharunrai14/dcabot"
   },
   "scripts": {
     "start": "node ./src/index.js"
